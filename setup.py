@@ -14,7 +14,7 @@ setup(
     description="desafio poo",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Diego-Alvesds"
+    url="https://github.com/Diego-Alvesds",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
