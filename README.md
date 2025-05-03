@@ -8,7 +8,7 @@ Desafio 3 de Sistema Bancario com POO
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install desafio_poo
 
 ```bash
 pip install desafio_poo
